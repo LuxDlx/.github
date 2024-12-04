@@ -8,3 +8,5 @@ Lux Delux Official site: [SILLYSOFT](https://sillysoft.net/lux/)
 A discord bot interacting with the sillysoft "api" used on the official discord server
 ## [LuxCore.py](https://github.com/LuxDlx/LuxCore.py)
 A work in progress Lux Delux client and server software
+## [LuxLauncher](https://github.com/LuxDlx/LuxLauncher)
+A custom Lux Launcher which makes use of java 23
