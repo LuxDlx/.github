@@ -10,3 +10,5 @@ A discord bot interacting with the sillysoft "api" used on the official discord 
 A work in progress Lux Delux client and server software
 ## [LuxLauncher](https://github.com/LuxDlx/LuxLauncher)
 A custom Lux Launcher which makes use of java 23
+## [LuxApp](https://github.com/LuxDlx/LuxApp)
+A nice android app for browing the Lux web
